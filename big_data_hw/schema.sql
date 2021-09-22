@@ -26,3 +26,8 @@ CREATE TABLE vine_table (
   total_votes INTEGER,
   vine TEXT
 );
+
+SELECT * FROM review_df;
+SELECT * FROM public.customer_df;
+SELECT * FROM public.product_df
+SELECT * FROM public.vine_df
